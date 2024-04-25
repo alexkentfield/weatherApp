@@ -2,6 +2,7 @@ Simple Weather App
 
 What's working:
  - User can enter any city name with 3 or more characters and we will display the best result
+ - Icon displays with current weather data in farenheit for user
 
 What could be done:
  - Better UI
