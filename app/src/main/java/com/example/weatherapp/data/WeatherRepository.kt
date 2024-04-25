@@ -1,4 +1,8 @@
-package com.example.weatherapp
+package com.example.weatherapp.data
+
+import com.example.weatherapp.BuildConfig
+import com.example.weatherapp.WeatherResponse
+import com.example.weatherapp.WeatherRetrofitClient
 
 class WeatherRepository {
     private val service = WeatherRetrofitClient.create()
